@@ -1,0 +1,2 @@
+"""Set game solver package."""
+
